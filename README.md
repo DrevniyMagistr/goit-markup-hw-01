@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-lesson-go-it-2
+# goit-markup-hw-01
+lesson-go-it
